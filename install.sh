@@ -12,5 +12,5 @@ chmod +x *
 echo -e "\e[0;32m"
 cowsay '
 venom installed
- you can open it by typing venum
+ you can open it by typing venom
 '
