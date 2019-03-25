@@ -1,4 +1,4 @@
-#!/data/data/com.termux/files/usr/bin/bash
+#!$HOME/../usr/bin/bash
 apt update
 apt upgrade
 apt install cowsay
