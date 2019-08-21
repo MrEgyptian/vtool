@@ -2,17 +2,19 @@
 
 V-tool is the word generator tool
 
-it programmed by Ahmed Mohamed=Shehata
+it programmed by Ahmed Mohamed
 
 if you wanna use it just write 
 
 
+```
+ chmod +x *
 
-$chmod +x *
-
-$bash install.sh
+ bash install.sh
+```
 
 then write 
 
-
-$venom
+```
+venom
+``
